@@ -12,7 +12,7 @@ Mind huvitab, mida kasulikku võib segastest andmetest välja sõeluda ning kuid
 | Nädal | Teema | Staatus |
 |-------|-------|---------|
 | 0 | Onboarding | Käimas |
-| 1 | SQL Basics | Tulemas |
+| 1 | SQL Basics | Käimas |
 | 2 | SQL Cleaning | Tulemas |
 | 3 | SQL JOINs | Tulemas |
 | 4 | SQL Aggregation | Tulemas |
