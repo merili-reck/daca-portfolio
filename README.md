@@ -1,6 +1,6 @@
 # daca-portfolio
 DACA programmi andmeanalüütiku portfoolio
-# DACA Portfoolio -- [Merili Reck]
+# DACA Portfoolio -- Merili Reck
 
 ## Minust
 Mind huvitab, mida kasulikku võib segastest andmetest välja sõeluda ning kuidas luua andmeanalüütika toel saab luua paremini toimivad lahendusi. 
