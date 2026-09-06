@@ -2,7 +2,7 @@
 
 ## Mida ma tegin
 - Õppisin uusi SQL-i käske, nagu UPDATE, DELETE, CASE WHEN, HAVING, LIKE, CAST & COALESCE.
-- Osalesin meeskonna andmemaastiku koostamisel. Uurisin tooteandmeid ja jagasin enda leida meeskonnakaaslastega.
+- Osalesin meeskonna andmemaastiku koostamisel. Uurisin tooteandmeid ja jagasin enda leide meeskonnakaaslastega.
 
 ## Peamised õppetunnid
 - Enne UPDATE ja DELETE käskude jooksutamist tuleb alati luua testtabel, mille peal proovida, kas käsk toimib oodatult. Vastasel juhul võib tekkida andmekadu.
