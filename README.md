@@ -13,8 +13,8 @@ Mind huvitab, mida kasulikku võib segastest andmetest välja sõeluda ning kuid
 |-------|-------|---------|
 | 0 | Onboarding | Käimas |
 | 1 | SQL Basics | Käimas |
-| 2 | SQL Cleaning | Tulemas |
-| 3 | SQL JOINs | Tulemas |
+| 2 | SQL Cleaning | Käimas |
+| 3 | SQL JOINs | Käimas |
 | 4 | SQL Aggregation | Tulemas |
 | 5-6 | Visualiseerimine | Tulemas |
 | 7-8 | Python | Tulemas |
