@@ -1,4 +1,4 @@
-# Nädal 2: SQL Joins -- UrbanStyle'i andmete uurimine
+# Nädal 2: SQL Cleaning -- UrbanStyle'i andmete uurimine
 
 ## Mida ma tegin
 - Õppisin uusi SQL-i käske, nagu UPDATE, DELETE, CASE WHEN, HAVING, LIKE, CAST & COALESCE.
