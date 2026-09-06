@@ -5,4 +5,4 @@
 | Loogilised vead | Ei ole. | Negatiivne või äärmuslik jaehind |
 | Ebajärjekindlad kategooriad | Ei ole. | Erinevad nimekujud (Shoes vs shoes) |
 | NULL omahind/kategooria | Ei ole. | Puuduv klassifitseerimine |
-| **KOKKU probleeme** | **1** | 12 duplikaatset tootenime, tuleks eemaldada, et ostud süsteemis korrektselt kajastuks. |
+| **KOKKU probleeme** | **1** | 12 duplikaatset tootenime. Tuleks eemaldada, et ostud süsteemis korrektselt kajastuks. |
