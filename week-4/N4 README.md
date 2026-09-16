@@ -9,6 +9,9 @@
 - SQL-i peab õppima nagu keelt, järjepidevalt harjutades. Sain eelmistes loengutes aru, mida tehti, kuid süntaks kipub ajas ununema.
 - Ettekandeid tehes võiks rohkem tähelepanu pöörata visuaalile, mis võiks nädalast-nädalasse paraneda ja areneda.
 
+## AI kasutamine
+- Kasutasin Claude'i abi, et koostada korrektseid CTE päringuid.
+
 ## Failid
 - `week4_sales_aggregation.sql` -- individuaalne puhastamisskript
 
