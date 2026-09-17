@@ -4,7 +4,7 @@
 - Õppisin, mis eraldab mõjusat visuaali segasest.
 - Tuvastasin näidete najal andmeesitluse tüüpvigu.
 - Seadsin üles Power BI ja tegin esimesed sammud Power BI kasutamisel.
-- Grupitöö raames koostasin Power BI-s investor dashboard'i ning panin reedeseks esitluseks kokku slaidi dokumendi, mis lähtub sel nädalal õpitud mõjusa visualiseerimise põhimõtetest.
+- Grupitöö raames koostasin Power BI-s investor dashboard'i ning panin reedeseks esitluseks kokku slaidi, mis lähtub sel nädalal õpitud mõjusa visualiseerimise põhimõtetest.
 
 ## Peamised õppetunnid
 - Üks suurimaid vigu andmeanalüüsis on oskamatus esitada andmeid nii, et asjassepuuduvad inimesed neid kiiresti mõistaksid. Vaja on eemaldada igasugune visuaalne müra ning keskenduda Z-lugemismustrile.
