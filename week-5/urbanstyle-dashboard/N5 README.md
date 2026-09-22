@@ -4,21 +4,28 @@
 - Õppisin, mis eraldab mõjusat visuaali segasest.
 - Tuvastasin näidete najal andmeesitluse tüüpvigu.
 - Seadsin üles Power BI ja tegin esimesed sammud Power BI kasutamisel.
-- Grupitöö raames lõin KPI kaardid ja joondiagrammi.
-- Koostasin Power BI-s meeskonna investor dashboard'i ja panin esitluseks kokku slaidi, mis lähtub sel nädalal õpitud mõjusa visualiseerimise põhimõtetest. KPI-d on slaidi ülemises osas, sest investor tahab just neid esimesena näha. Joondiagramm on KPI kaartide all ning näitab müügitulu trendi ajas ja võimaldab jälgida olulisi mustreid ja tuvastada ajas tõuse ja langusi. Joondiagrammi all on samal joonel müügikanalite jaotuse tulpdiagramm ja poodide tulu jaotuse sektordiagramm. Kahe diagrammi all on lühike kokkuvõte ja edasine plaan. Ülesehitus on loodud põhimõttel 'vasakult paremale ja ülalt alla', mis tähendab, et olulisim info on üleval ja vasakul ning allapoole liikudes on esitatud infot täpsustatud.
+- Grupitöö raames lõin KPI kaardid ja joondiagrammi ning panin kokku reedese demo.
+
+## Grupitöö disainiotsuste põhjendused
+- KPId: Lisasin kõige üles, sest pilk peab esimesena maanduma kõige tähtsamal infol. Järjestasin vasakult paremale olulisuse järjekorras, alustades kasvuprotsendist ja lõpetades keskmise tellimuse summaga. Kasvuprotsenti indikeerisin lisaks ka ülespoole noolekesega, et kiirel vaatamisel oleks selge, et trend on positiivne. Kasutasin positiivsele tulemusele viitamiseks helesinist värvi, et värviskeem oleks loetav ka levinuima värvipimeduse vormiga vaatajale. Jätsin ära komakohad, sest need tekitavad visuaalset müra.
+- Diagrammid: Kõige olulisem diagramm oli müügitulu trend ajas ja seepärast asetasin selle suuremalt teiste diagrammide kohale. Joondiagrammi alla asetasin tulpdiagrammi müükide osakaaluga poes ja online'is. Tulpdiagrammis kasutasin taaskord visuaalse müra vähendamiseks UrbanStyle'i värviskeemi põhivärvi, mis harmoneerub ka joondiagrammil kasutatud värviga. Tulpdiagrammi kõrvale asetasin sektordiagrammi, mis toob juba täpsemalt välja, milline on tulu jaotuvus erinevate füüsiliste poodide ja online-müükide vahel. Suurima osakaaluga poe (Tallinn) jaoks kasutasin UrbanStyle'i rohelist, Tartu jaoks UrbanStyle'i sinist, Pärnu jaoks UrvanStyle'i halli ja online-müükide jaoks palusin Claude'il genereerida harmoneeruva värvi, mis oleks samuti sobilik värvipimedale vaatajale.
+- Soovitused: Kuna dashboard koosneb üldiselt kiiresti loetavatest ja uuendatavatest andmetest ning ei sisalda endas soovitust, tundus see siinkohal ebaolulisim ning jäi seetõttu dash'i alumisse osasse.
 
 ## Peamised õppetunnid
-- Üks suurimaid vigu andmeanalüüsis on oskamatus esitada andmeid nii, et asjassepuuduvad inimesed neid kiiresti mõistaksid. Vaja on eemaldada igasugune visuaalne müra ning keskenduda Z-lugemismustrile.
+- Üks suurimaid vigu andmeanalüüsis on oskamatus esitada andmeid nii, et asjassepuuduvad inimesed neid kiiresti mõistaksid. Vaja on eemaldada igasugune visuaalne müra ning keskenduda Z-lugemismustrile, kus vaataja pilk liigub vasakult paremale ja ülalt alla.
 - Andmete ebaselge esitamine võib parimal juhul muuta andmed kehvemini hoomatavamaks ning halvimal juhul moonutada reaalseid tulemusi.
 - Power BI võimaldab puhastatud andmete põhjal selgelt ja kiiresti vastata erinevatele küsimustele, olgu need siis turundusjuhilt või CEO-lt.
 
 ## AI kasutamine
-- Kasutasin Claude'i abi, et leida Power BI liideses vajalikud tööriistad ja tuvastada värviskeem, mis on selge ka värvipimedale vaatajale. Märgin, et siin jäi Claude pisut hätta, toetusin ka YouTube'i videotele.
+- Kasutasin Claude'i abi, et tuvastada värviskeem, mis on selge ka värvipimedale vaatajale.
+
+## Grupitöö link
+https://docs.google.com/presentation/d/1NwglDgLGmR8aKQWKXiZXN-PUTL0dGNypzKjoAN6VcY8/edit?slide=id.p#slide=id.p
 
 ## Failid
-- `urbanstyle_week5_dashboard_merili.pbix` -- terve grupi investor dashboard Power BI fail, mille esitluseks koostasin
+- `urbanstyle_week5_dashboard_merili.pbix` -- individuaalne Power BI fail
 - `queries.sql` -- individuaalsed päringud
-- `dashboard_screenshot.png` -- kuvatõmmis investor dashboard'i esitluses
+- `dashboard_screenshot.png` -- kuvatõmmis individuaalsest dashboard'ist
 
 ##  Grupitöö
 - https://docs.google.com/presentation/d/1NwglDgLGmR8aKQWKXiZXN-PUTL0dGNypzKjoAN6VcY8/edit?slide=id.p#slide=id.p
