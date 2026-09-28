@@ -8,6 +8,11 @@
 
 ## UrbanStyle Dashboard
 
+### Dashboard'i lugu
+Setup: UrbanStyle on kasvav moebränd kolme kauplusega.
+Data: 3 aasta müügiandmed näitavad selget kasvu.
+Action: Investeeri spordijalatsitesse ja auditeeri Tartu kauplust.
+
 ### Peamised leiud
 - Kogu müügitulu: €2,9M (+19% YoY kasv)
 - Hero product: Õhuline sünteetiline sporditossud (0,98% käibest)
@@ -17,11 +22,6 @@
 - Power BI Desktop
 - Supabase (PostgreSQL andmebaas)
 - DAX mõõdikud (YoY Growth, Revenue Category)
-
-### Dashboard'i lugu
-Setup: UrbanStyle on kasvav moebränd kolme kauplusega.
-Data: 3 aasta müügiandmed näitavad selget kasvu.
-Action: Investeeri spordijalatsitesse ja auditeeri Tartu kauplust.
 
 ## Grupitöö disainiotsuste põhjendused
 - **KPId:** Jätsin ülaossa, sest tegu on kõige olulisema infoga. Lisaks kogutulule lisasin ka suvekuudel 30k euro täitmise protsendi ja suvemüügi osakaalu, sest nagu selgus, ei tõuse Pärnu poe käive suvekuurordi kohta piisavalt. Säilitasin eelmise nädala värviskeemi, mis lähtub UrbanStyle'i brändivärvidest ja on selge ka värvipimedale vaatajale.
