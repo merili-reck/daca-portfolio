@@ -26,9 +26,3 @@ https://docs.google.com/presentation/d/1NwglDgLGmR8aKQWKXiZXN-PUTL0dGNypzKjoAN6V
 - `urbanstyle_week5_dashboard_merili.pbix` -- individuaalne Power BI fail
 - `queries.sql` -- individuaalsed päringud
 - `dashboard_screenshot.png` -- kuvatõmmis individuaalsest dashboard'ist
-
-##  Grupitöö
-- https://docs.google.com/presentation/d/1NwglDgLGmR8aKQWKXiZXN-PUTL0dGNypzKjoAN6VcY8/edit?slide=id.p#slide=id.p
-
-##  Meeskonna soovitus Kristile
-- Tuvastada tõusutrendide juurpõhjused ja võimalusel rakendada samu võtteid käibe kasvatamiseks 2025. aastal.
