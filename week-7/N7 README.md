@@ -2,7 +2,7 @@
 
 ## Mida ma tegin
 - Õppisin Pythoni põhitõdesid ning seda, kuidas Pythoni süntaks suhestub SQL-i süntaksiga.
-- Õppisin, kuidas Pythoni abil saab luua dünaamilisi andmefreime, kust saab vajadusel kiiresti sorteerida andmeid, mida erinevatel osakondadel tarvis on ning mille abil saab hõlpsasti vastuseid erinevatele äriküsimustele.
+- Õppisin looma andmefreime, mille abil saab vajadusel kiiresti sorteerida andmeid, mida erinevatel osakondadel tarvis on ning mis aitavad hõlpsasti vastata erinevatele äriküsimustele.
 - Grupitöö raames visualiseerisin VS Code'is Pythoni RFM-i näitajad.
 
 ### Minu roll grupitöös
