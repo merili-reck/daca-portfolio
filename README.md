@@ -16,6 +16,6 @@ Mind huvitab, mida kasulikku võib segastest andmetest välja sõeluda ning kuid
 | 2 | SQL Cleaning | Läbitud |
 | 3 | SQL JOINs | Läbitud |
 | 4 | SQL Aggregation | Läbitud |
-| 5-6 | Visualiseerimine | Käimas |
-| 7-8 | Python | Tulemas |
-| 9-10 | Portfoolio + Karjäär | Tulemas |
+| 5-6 | Visualiseerimine | Läbitud |
+| 7-8 | Python | Läbitud |
+| 9-10 | Portfoolio + Karjäär | Läbitud |
