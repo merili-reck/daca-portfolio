@@ -20,12 +20,12 @@ Lõpetasin hiljuti 11-nädalase andmeanalüüsi intensiivprogrammi (DACA). See r
 
 Olen töötanud kogu analüütikaprotsessi ulatuses:
 
-- Puhastan ja valmistan ette segaseid andmestikke: UrbanStyle'i andmetest leidsin 510 duplikaatset meiliaadressi ja 380 klienti, kellel puudus meiliaadress
-- Kirjutan SQL-päringuid, mis vastavad äriküsimustele: JOIN-ide, agregeerimise ja CTE-de abil tuvastasin mustreid käibe tõusu ja languse osas
-- Ehitan Power BI-s dashboard'e: kogu müügitulu €2,9M (+19% YoY kasv), Tartu kaupluse langus (-5%) ja soovitus Tartu kauplust auditeerida
-- Leian Pythoni ja pandas-teegi abil mustreid, mis toetavad paremaid otsuseid: RFM-i alusel on VIP-klientide käibeosakaal 42,8% ja 522 at-risk klienti moodustavad kliendibaasist 20,5%
+- Korrastan segaseid andmestikke
+- Kirjutan SQL-päringuid, mis vastavad äriküsimustele
+- Ehitan Power BI-s dashboard'e, mis annavad olukorrast kiire ja dünaamilise ülevaate
+- Leian Pythoni ja pandas-teegi abil mustreid, mis toetavad paremaid otsuseid
 - Ühendan Pythoni live-andmetega: pärin UrbanStyle'i andmed Supabase'i API kaudu
-- Selgitan leide nii tehnilisele kui ka mittetehnilisele vaatajale: viitejooned, label'id ja annotatsioonid näitavad, miks konkreetset diagrammi näidatakse
+- Selgitan leide nii tehnilisele kui ka mittetehnilisele vaatajale
 
 ---
 
