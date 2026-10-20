@@ -9,8 +9,8 @@
 Roll D: Visualiseerimine
 
 ### Peamised leiud
-- VIP-klientide käibeosakaal on 42,9%. Seega tasub keskenduda VIP-klientide hoidmisele, tehes neile eripakkumisi ja -soodustusi.
-- Meil on 526 at-risk klienti, kes moodustavad kliendibaasist 16,7%. Klientide hoidmiseks tuleks välja töötada win-back kampaaniaid.
+- VIP-klientide käibeosakaal on 42,8%. Seega tasub keskenduda VIP-klientide hoidmisele, tehes neile eripakkumisi ja -soodustusi.
+- Meil on 522 at-risk klienti, kes moodustavad kliendibaasist 20,5%. Klientide hoidmiseks tuleks välja töötada win-back kampaaniaid.
 
 ### Kasutatud tehnoloogiad
 - VS Code
@@ -31,4 +31,3 @@ Roll D: Visualiseerimine
 
 ## Failid
 - `week7_rfm_visualization.ipynb` — visualiseerimine, faili lõpuosas
-
