@@ -11,13 +11,8 @@ Otsin andmeanalüütiku tööd ning eriti huvitavad mind mittetulundusühingud j
 Lõpetasin hiljuti 11-nädalase andmeanalüüsi intensiivprogrammi (DACA). See repositoorium koondab minu SQL-i, Power BI, Pythoni ja API projekte, mis põhinevad UrbanStyle'i andmetel.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Merili%20Reck-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merili-reck/)
-[![Email](https://img.shields.io/badge/Email-merili.reck%40gmail.com-6B8E23?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merili.reck@gmail.com)
+[![Email](https://img.shields.io/badge/Email-merili.reck%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:merili.reck@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-merili--reck-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/merili-reck)
-
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow)
-![Python](https://img.shields.io/badge/Python-pandas%20%26%20Plotly-green)
-![Supabase](https://img.shields.io/badge/Supabase-API-3ECF8E)
 
 ---
 
@@ -66,4 +61,26 @@ Uurisin müügitabelit SQL-i agregaatfunktsioonide ja CTE-ga. Käive kukub järs
 
 Lõin grupitöö raames ülevaate Pärnu poest. Pärnu ei ole ühelgi suvel saavutanud 30 000 euro kuist müügieesmärki.
 
-**Äritõlgendus:** kaaluda
+**Äritõlgendus:** kaaluda püüdmata klientuuri kaasamist kampaaniate abil või Pärnu poe sulgemist ja ressursside suunamist online-poodi, mis täidab järjepidevalt target'eid.
+
+[Projekti README](week-6/N6%20README.md)
+
+### 3. Klientide segmenteerimine RFM-i alusel Pythonis
+
+**Kasutatud tehnoloogiad:** Python, pandas, VS Code
+
+Visualiseerisin grupitöö raames VS Code'is Pythoni RFM-i näitajad.
+
+**Äritõlgendus:** VIP-klientide käibeosakaal on 42,8%, seega tasub keskenduda nende hoidmisele eripakkumistega. 522 at-risk klienti moodustavad kliendibaasist 20,5% ja vajavad win-back kampaaniaid.
+
+[Projekti README](week-7/N7%20README.md)
+
+### 4. Live-andmete pärimine Supabase'i API kaudu
+
+**Kasutatud tehnoloogiad:** Python, pandas, Supabase API
+
+Lõin grupitöö raames Pythonis funktsioonid, mis pärivad Supabase'i API-st UrbanStyle'i andmed.
+
+**Äritõlgendus:** asendada käsitsi allalaaditud CSV-failid API-päringuga, et KPI-d ja RFM-analüüs uueneksid automaatselt.
+
+[Projekti README](week-8/N8%20README.md)
